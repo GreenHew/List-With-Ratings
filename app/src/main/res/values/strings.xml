@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List of Bugs</string>
+    <string name="review_message">Write a review.</string>
+</resources>
